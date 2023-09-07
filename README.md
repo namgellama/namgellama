@@ -7,7 +7,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namgellama&label=Profile%20views&color=0e75b6&style=flat" alt="namgellama" /> </p>
 
-- 👨‍💻 All of my projects are available at a href="https://linkedin.com/in/namgel-lama-9b2164193/" target="blank">namgellama.com.np</a>
+- 👨‍💻 All of my projects are available at a href="http://namgellama.com.np" target="blank">namgellama.com.np</a>
 
 
 - 📫 How to reach me **namgeltamang14@gmail.com**
