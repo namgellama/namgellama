@@ -5,7 +5,6 @@
 <br/>
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namgellama&label=Profile%20views&color=0e75b6&style=flat" alt="namgellama" /> </p>
 
 - 👨‍💻 All of my projects are available at <a href="http://namgellama.com.np" target="blank">namgellama.com.np</a>
 
