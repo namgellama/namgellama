@@ -36,13 +36,13 @@ HTML • CSS • JavaScript • TypeScript • React • Redux • Node.js • E
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namgellama&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=namgellama&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namgellama&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namgellama&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namgellama" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=namgellama&theme=tokyonight" />
 </p>
