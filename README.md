@@ -29,7 +29,7 @@
 
 ### 🛠 Languages & Tools
 <p align="left">
-HTML • CSS • JavaScript • TypeScript • React • Next • Node.js • Express • Nest • Python • FastApi • Django • Java • PostgreSQL • MongoDB • Redis • Docker
+HTML • CSS • JavaScript • TypeScript • React • Next • Node.js • Express • Nest • Python • FastApi • Django • Java • .NET • PostgreSQL • MongoDB • Redis • Docker
 </p>
 
 ---
